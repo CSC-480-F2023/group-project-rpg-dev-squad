@@ -1,0 +1,16 @@
+Combat
+When the player interacts with an enemy, the system shall initiate a combat interface within 2 seconds.
+
+The combat interface shall display the user and the enemy facing each other.
+
+The combat interface shall display user options in 4 buttons which will allow the user to attack, open bag, use skill, or run.
+  The attack button shall initiate a default attack against the enemy
+  The open bag button shall display the consumable items from the user's inventory that will aid in battle.
+  The skill button shall display 4 buttons that represent different skills the user's character can use to attack or defend against the enemy or buffs the user.
+  The run button shall make the user leave the battle.
+
+
+Explortions
+
+Item
+
