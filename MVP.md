@@ -1,17 +1,18 @@
 ## Group Analysis Phase Output
 
-**<ins> Requirements: </ins>**
-Functional
-
-
-Non-Functional
-
-
-**<ins> Stakeholders: </ins>**
+**<ins> Requirements</ins>:**\
+Functional\
 
 
 
-**<ins> Constraints: </ins>**
+Non-Functional\
+
+
+**<ins>Stakeholders</ins>:**
+
+
+
+**<ins>Constraints</ins>:**
 
 
 
