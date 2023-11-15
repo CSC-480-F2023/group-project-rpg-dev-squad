@@ -1,6 +1,6 @@
 # Analysis Doc
 User Stories\
-Non-funtional Requirements\
+Functional Requirements:\
 **<ins>Persona</ins>:** Errick Sonday\
 As a video game enthusiast
 I want to be able to change my player character's stats
@@ -11,7 +11,8 @@ Scenario: See character's in game stats\
 Given I have my character selected
 When I click on a stat
 Then I can customise the characters attributes
-and interact better with the environment.
+and interact better with the environment.\
+Contraint: Player can only change 1 stat per level up
 
 **<ins>Persona</ins>:** Molly Sator Day\
 As a storyboard artist
@@ -22,7 +23,8 @@ so that I can carry out interesting quests within the game.
 Scenario: Speak with in game characters\
 Given I have walked up to a character
 when I press the interact button
-then I can speak with a character and receive information
+then I can speak with a character and receive information\
+Contraint: Player can only choose two predetermined dialogue options
 
 **<ins>Persona</ins>:** Peter Fryday\
 As a software debugger
@@ -33,8 +35,10 @@ so that I can equip weapons for combat and heal when necesssary.
 Scenario: Equip and manage collected items\
 Given my character has items collected
 when I open the items menu
-I can use, equip, or discard a selected item.
+I can use, equip, or discard a selected item.\
+Contraint: Player can only equip or use 1 item at a time\
 
+Non-functional requirement:\
 **<ins>Persona</ins>:** Willow Whensday\
 As a grahpic designer
 I want to be able to customise my player character's appearance
@@ -44,5 +48,6 @@ so that I can tailor the gaming experience to my preferences
 Scenario: Customize character appearance\
 Given I have created a character
 when I select an outfit they have collected
-I can set my character to wear said outfit
+I can set my character to wear said outfit\
+Contraints: Outfits are predetermined and can only be toggled on or off between selected and default
 
