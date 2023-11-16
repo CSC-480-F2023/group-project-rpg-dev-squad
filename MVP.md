@@ -14,9 +14,10 @@ Non-Functional
 * Combat orientation (This includes the stance in which the player fights an enemy)
 * Character customization (allows player to change their overworld outfit)
 * Player Dialogue (the player gets to respond to npcs and environment in a personalized way)
+* Interfaces and messages that displays for item aquisition and enhancement (Messeges and interfaces that shows aquired items with their stats)
 
 **<ins>Stakeholders</ins>:**
-* Users - Players (the people who play th game are the primary users and the ones who experience the game and its functions)
+* Users - Players (the people who play the game are the primary users and the ones who experience the game and its functions)
 * Regulator - Dev Team and Prof. Munday (These are the people who manage the software when it is deployed)
 * Producers - The Dev Team (Joel and Khalil will be the producers of this software)
 
@@ -25,3 +26,5 @@ Non-Functional
 * Number of colors (limited to the basic rainbow colors)
 * Number of items (We will limit the total in game items to 50 for now to save on space)
 * Number of types of npcs (Between friends and foes we will limit the project to 4 types of enemies and 1 type of friendly npc)
+* Amount of time needed to load aspects of the game (Ensure good performance)
+* Require user action to close certain interfaces or messages (Ensure user intentions)
